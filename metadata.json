@@ -1,0 +1,6 @@
+{
+  "name": "Método Pronta",
+  "description": "Página de vendas premium para o curso Método Pronta - Formação Profissional em Promob com Rafaella Ludicsa",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
